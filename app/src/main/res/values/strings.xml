@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Hotel</string>
+
+    <!--activity_main-->
+    <string name="main_lbl1">Location</string>
+    <string name="fragmentOne">Nearby</string>
+    <string name="fragmentTwo">Popular</string>
+    <string name="fragmentThree">All</string>
+
+    <!--recycler_itemview-->
+    <string name="itemview_lbl1">4.5</string>
+    <string name="itemview_lbl2">(21 ratings)</string>
+    <string name="itemview_lbl3">$99/day</string>
+    <string name="itemview_lbl4">The Westeen</string>
+    <string name="itemview_lbl5">GET 50% OFF</string>
+    <string name="itemview_lbl6">Gulshan Circle 2, Dhaka</string>
+    <string name="itemview_lbl7">Free wifi</string>
+    <string name="itemview_lbl8">Swimming</string>
+
+    <!--navigation_search-->
+    <string name="search_lbl1">Explore</string>
+    <string name="search_lbl2">Filters</string>
+    <string name="search_lbl3">Location</string>
+    <string name="search_lbl4">Dhaka</string>
+    <string name="search_lbl5">Check In</string>
+    <string name="search_lbl6">07 Mar, 2019</string>
+    <string name="search_lbl7">Check Out</string>
+    <string name="search_lbl8">12 Mar, 2019</string>
+    <string name="search_lbl9">Count</string>
+    <string name="search_lbl10">2 Adults</string>
+    <string name="search_lbl11">Rooms</string>
+    <string name="search_lbl12">03</string>
+    <string name="search_lbl13">SEARCH NOW</string>
+    <string name="search_lbl14">TOP SEARCHES</string>
+    <string name="search_lbl15">RECENT SEARCHES</string>
+
+    <!--navigation_recycler_itemview-->
+    <string name="navigatin_lbl1">$89/day</string>
+    <string name="navigation_lbl2">4.3</string>
+    <string name="navigation_lbl3">(21 ratings)</string>
+    <string name="navigation_lbl4">Tulip Hotel</string>
+    <string name="navigation_lbl5">Coxbazar, Chittagong</string>
+
+    <!--filter_bottomsheet-->
+    <string name="filter_lbl1">Cancel</string>
+    <string name="filter_lbl2">Filter</string>
+    <string name="filter_lbl3">Reset</string>
+    <string name="filter_lbl4">SORT BY</string>
+    <string name="filter_lbl6">RATING</string>
+    <string name="filter_lbl7">NONE</string>
+    <string name="filter_lbl8">1</string>
+    <string name="filter_lbl9">2</string>
+    <string name="filter_lbl10">3</string>
+    <string name="filter_lbl11">4</string>
+    <string name="filter_lbl12">5</string>
+    <string name="filter_lbl13">PRICE RANGE</string>
+    <string name="filter_lbl14">$90-$350</string>
+    <string name="filter_lbl15">Average-$250</string>
+    <string name="filter_lbl16">FILTER NOW</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
