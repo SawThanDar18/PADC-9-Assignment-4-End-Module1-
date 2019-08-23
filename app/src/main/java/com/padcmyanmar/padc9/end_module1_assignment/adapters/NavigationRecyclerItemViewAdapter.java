@@ -14,7 +14,7 @@ public class NavigationRecyclerItemViewAdapter extends RecyclerView.Adapter {
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
-        View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.navigation_recycler_itemview, viewGroup, false);
+        View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.navigation_search_recycler_itemview, viewGroup, false);
         return new NavigationRecyclerItemViewHolder(view);
     }
 

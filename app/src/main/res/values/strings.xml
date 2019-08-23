@@ -34,7 +34,7 @@
     <string name="search_lbl14">TOP SEARCHES</string>
     <string name="search_lbl15">RECENT SEARCHES</string>
 
-    <!--navigation_recycler_itemview-->
+    <!--navigation_search_recycler_itemview-->
     <string name="navigatin_lbl1">$89/day</string>
     <string name="navigation_lbl2">4.3</string>
     <string name="navigation_lbl3">(21 ratings)</string>

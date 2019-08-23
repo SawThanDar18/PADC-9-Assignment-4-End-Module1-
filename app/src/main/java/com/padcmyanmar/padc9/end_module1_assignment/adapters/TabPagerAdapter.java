@@ -5,8 +5,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import com.padcmyanmar.padc9.end_module1_assignment.fragments.NavigationSearchFragment;
-import com.padcmyanmar.padc9.end_module1_assignment.fragments.NearbyFragment;
+import com.padcmyanmar.padc9.end_module1_assignment.fragments.NearbyHotelFragment;
 
 public class TabPagerAdapter extends FragmentStatePagerAdapter {
 
@@ -17,10 +16,10 @@ public class TabPagerAdapter extends FragmentStatePagerAdapter {
     @Override
     public Fragment getItem(int i) {
         if(i == 0){
-            return new NearbyFragment();
+            return new NearbyHotelFragment();
         }else if(i == 1){
-            return new NearbyFragment();
-        }else return new NearbyFragment();
+            return new NearbyHotelFragment();
+        }else return new NearbyHotelFragment();
     }
 
     @Override

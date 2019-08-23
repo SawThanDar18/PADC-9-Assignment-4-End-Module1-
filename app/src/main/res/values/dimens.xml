@@ -10,6 +10,7 @@
 
     <dimen name="height">40dp</dimen>
     <dimen name="image_height">150dp</dimen>
+    <dimen name="image_widht">200dp</dimen>
     <dimen name="btn_width">70dp</dimen>
     <dimen name="btn_width2">80dp</dimen>
 

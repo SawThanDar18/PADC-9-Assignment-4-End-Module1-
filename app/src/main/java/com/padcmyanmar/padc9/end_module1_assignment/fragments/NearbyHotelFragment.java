@@ -14,17 +14,17 @@ import android.widget.LinearLayout;
 import com.padcmyanmar.padc9.end_module1_assignment.R;
 import com.padcmyanmar.padc9.end_module1_assignment.adapters.RecyclerItemViewAdapter;
 
-public class NearbyFragment extends Fragment {
+public class NearbyHotelFragment extends Fragment {
 
 
-    public NearbyFragment() {
+    public NearbyHotelFragment() {
     }
 
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        View view = LayoutInflater.from(container.getContext()).inflate(R.layout.fragment_nearby, container, false);
+        View view = LayoutInflater.from(container.getContext()).inflate(R.layout.fragment_hotel_nearby, container, false);
         return view;
     }
 
